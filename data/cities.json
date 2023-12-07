@@ -1,160 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Ho Chi Minh City",
+      "countryName": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-07T15:20:21.221Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "10.76816188554423",
+        "lng": "106.69509751172937"
       },
-      "id": 17806751
+      "id": 98443211
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Llanfynydd",
-      "countryName": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2023-12-07T11:52:24.701Z",
-      "notes": "haha",
-      "position": {
-        "lat": "51.93071827931289",
-        "lng": "-4.108886718750001"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Los Balbases",
-      "countryName": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-07T11:56:22.789Z",
+      "cityName": "Ho Chi Minh City",
+      "countryName": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-07T15:20:24.133Z",
       "notes": "",
       "position": {
-        "lat": "42.177643246476386",
-        "lng": "-4.084321822496209"
+        "lat": "10.754343240839377",
+        "lng": "106.68586624083456"
       },
-      "id": 98443199
+      "id": 98443212
     },
     {
-      "cityName": "Andujar",
-      "countryName": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-07T11:56:29.755Z",
+      "cityName": "Ho Chi Minh City",
+      "countryName": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-07T15:20:26.509Z",
       "notes": "",
       "position": {
-        "lat": "38.044226149446494",
-        "lng": "-3.9740882212456645"
+        "lat": "10.673045196626104",
+        "lng": "106.64123536880017"
       },
-      "id": 98443200
+      "id": 98443213
     },
     {
-      "cityName": "Rockton",
-      "countryName": "Australia",
-      "emoji": "🇦🇺",
-      "date": "2023-12-07T11:57:04.639Z",
-      "notes": "testing",
-      "position": {
-        "lat": "-37.125296728994286",
-        "lng": "149.32617187500003"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "La Barde",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-12-07T12:08:54.023Z",
-      "notes": "trsting",
-      "position": {
-        "lat": "45.12731163593091",
-        "lng": "-0.07966639331390858"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "La Barde",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-12-07T12:08:54.023Z",
-      "notes": "trsting",
-      "position": {
-        "lat": "46.65632099406934",
-        "lng": "-0.2433040122117181"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Chatillon-sur-Thouet",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-12-07T12:13:10.572Z",
+      "cityName": "Ben Tre",
+      "countryName": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-07T15:20:32.227Z",
       "notes": "",
       "position": {
-        "lat": "46.65632099406934",
-        "lng": "-0.2433040122117181"
+        "lat": "10.226864383133057",
+        "lng": "106.3820994808509"
       },
-      "id": 98443204
-    },
-    {
-      "cityName": "Boischampre",
-      "countryName": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-12-07T12:13:42.044Z",
-      "notes": "",
-      "position": {
-        "lat": "48.71835380291149",
-        "lng": "0.03990246743299952"
-      },
-      "id": 98443205
-    },
-    {
-      "cityName": "Jumilla",
-      "countryName": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-07T12:14:41.514Z",
-      "notes": "",
-      "position": {
-        "lat": "38.33811505414111",
-        "lng": "-1.2323821575889717"
-      },
-      "id": 98443206
-    },
-    {
-      "cityName": "Villanueva de Sigena",
-      "countryName": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-07T12:15:05.728Z",
-      "notes": "",
-      "position": {
-        "lat": "44.80774629512494",
-        "lng": "0.5667215734166487"
-      },
-      "id": 98443207
+      "id": 98443214
     }
   ]
 }
