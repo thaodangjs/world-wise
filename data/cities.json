@@ -1,50 +1,26 @@
 {
   "cities": [
     {
-      "cityName": "Ho Chi Minh City",
-      "countryName": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2023-12-07T15:20:21.221Z",
+      "cityName": "Rondolandia",
+      "countryName": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-12-07T15:22:09.109Z",
       "notes": "",
       "position": {
-        "lat": "10.76816188554423",
-        "lng": "106.69509751172937"
-      },
-      "id": 98443211
-    },
-    {
-      "cityName": "Ho Chi Minh City",
-      "countryName": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2023-12-07T15:20:24.133Z",
-      "notes": "",
-      "position": {
-        "lat": "10.754343240839377",
-        "lng": "106.68586624083456"
-      },
-      "id": 98443212
-    },
-    {
-      "cityName": "Ho Chi Minh City",
-      "countryName": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2023-12-07T15:20:26.509Z",
-      "notes": "",
-      "position": {
-        "lat": "10.673045196626104",
-        "lng": "106.64123536880017"
+        "lat": "-10.502627056882632",
+        "lng": "-60.90065716081112"
       },
       "id": 98443213
     },
     {
-      "cityName": "Ben Tre",
-      "countryName": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2023-12-07T15:20:32.227Z",
+      "cityName": "Sensuntepeque",
+      "countryName": "El Salvador",
+      "emoji": "🇸🇻",
+      "date": "2023-12-07T15:22:16.453Z",
       "notes": "",
       "position": {
-        "lat": "10.226864383133057",
-        "lng": "106.3820994808509"
+        "lat": "13.902960660534008",
+        "lng": "-88.5774348311116"
       },
       "id": 98443214
     }
