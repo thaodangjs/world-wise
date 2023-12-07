@@ -17,7 +17,7 @@ function Map() {
   const [mapPosition, setMapPosition] = useState([40, 0]);
   const [searchParams] = useSearchParams();
 
-  const { isLoading: isLoadingGeolocation, getPosition } = useGeolocation();
+  const { isLoading: isLoadingGeolocation, getPosition } = useGeolocation(); //Don't forget to add ()
 
   const mapLat = searchParams.get("lat");
   const mapLng = searchParams.get("lng");
