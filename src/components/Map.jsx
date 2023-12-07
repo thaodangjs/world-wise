@@ -16,6 +16,7 @@ import Button from "./Button";
 function Map() {
   const [mapPosition, setMapPosition] = useState([40, 0]);
   const [searchParams] = useSearchParams();
+
   const { isLoading: isLoadingGeolocation, getPosition } = useGeolocation;
 
   const mapLat = searchParams.get("lat");
