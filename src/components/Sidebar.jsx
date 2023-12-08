@@ -10,7 +10,9 @@ function Sidebar() {
 
       <AppNav />
       <Outlet />
-      <footer className={styles.copyright}>This is a copyright</footer>
+      <footer className={styles.footer}>
+        <p className={styles.copyright}>This is a copyright</p>
+      </footer>
     </div>
   );
 }
