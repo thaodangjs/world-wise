@@ -2,9 +2,9 @@ import styles from "./Button.module.css";
 
 /* eslint-disable react/prop-types */
 
-function Button({ children, onClick, test }) {
+function Button({ children, onClick, type }) {
   return (
-    <button className={`${styles.btn} ${styles[test]}`} onClick={onClick}>
+    <button className={`${styles.btn} ${styles[type]}`} onClick={onClick}>
       {children}
     </button>
   );

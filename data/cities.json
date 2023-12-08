@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Rondolandia",
+      "countryName": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-12-07T15:22:09.109Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "-10.502627056882632",
+        "lng": "-60.90065716081112"
       },
-      "id": 17806751
+      "id": 98443213
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Sensuntepeque",
+      "countryName": "El Salvador",
+      "emoji": "🇸🇻",
+      "date": "2023-12-07T15:22:16.453Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "13.902960660534008",
+        "lng": "-88.5774348311116"
       },
-      "id": 98443197
+      "id": 98443214
+    },
+    {
+      "cityName": "Vistabella del Maestrazgo",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-08T01:34:42.206Z",
+      "notes": "",
+      "position": {
+        "lat": "40.33180793933533",
+        "lng": "-0.23936820652173954"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Prechac",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-08T01:34:45.555Z",
+      "notes": "",
+      "position": {
+        "lat": "44.3876776317557",
+        "lng": "-0.37101307744565887"
+      },
+      "id": 98443216
     }
   ]
 }
