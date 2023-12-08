@@ -23,6 +23,30 @@
         "lng": "-88.5774348311116"
       },
       "id": 98443214
+    },
+    {
+      "cityName": "Vistabella del Maestrazgo",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-08T01:34:42.206Z",
+      "notes": "",
+      "position": {
+        "lat": "40.33180793933533",
+        "lng": "-0.23936820652173954"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Prechac",
+      "countryName": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-08T01:34:45.555Z",
+      "notes": "",
+      "position": {
+        "lat": "44.3876776317557",
+        "lng": "-0.37101307744565887"
+      },
+      "id": 98443216
     }
   ]
 }
