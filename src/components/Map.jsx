@@ -11,6 +11,8 @@ import {
 import { useEffect, useState } from "react";
 //Quen dau {} khi input se bi loi
 import { useCities } from "../contexts/CitiesContext";
+import useGeolocation from "../hooks/useGeolocation";
+import Button from "./Button";
 
 function Map() {
   const [mapPosition, setMapPosition] = useState([40, 0]);
@@ -19,8 +21,8 @@ function Map() {
   const mapLat = searchParams.get("lat");
   const mapLng = searchParams.get("lng");
 
-  const navigate = useNavigate();
   const { cities } = useCities();
+  const { getPosition, isLoading: isLoadingGeoCoding } = useGeolocation();
 
   useEffect(() => {
     if (mapLat && mapLng) setMapPosition([mapLat, mapLng]);
@@ -30,6 +32,9 @@ function Map() {
 
   return (
     <div className={styles.mapContainer}>
+      <Button type="position" onClick={getPosition}>
+        {isLoadingGeoCoding ? "loading..." : "get position"}
+      </Button>
       <MapContainer
         center={mapPosition}
         zoom={6}
