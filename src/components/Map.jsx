@@ -22,19 +22,29 @@ function Map() {
   const mapLng = searchParams.get("lng");
 
   const { cities } = useCities();
-  const { getPosition, isLoading: isLoadingGeoCoding } = useGeolocation();
+  const {
+    getPosition,
+    isLoading: isLoadingGeoCoding,
+    position: geoPosition,
+  } = useGeolocation();
 
   useEffect(() => {
     if (mapLat && mapLng) setMapPosition([mapLat, mapLng]);
   }, [mapLat, mapLng]);
 
+  useEffect(() => {
+    if (geoPosition) setMapPosition(geoPosition);
+  }, [geoPosition]);
+
   console.log(mapPosition);
 
   return (
     <div className={styles.mapContainer}>
-      <Button type="position" onClick={getPosition}>
-        {isLoadingGeoCoding ? "loading..." : "get position"}
-      </Button>
+      {!geoPosition && (
+        <Button type="position" onClick={getPosition}>
+          {isLoadingGeoCoding ? "loading..." : "get position"}
+        </Button>
+      )}
       <MapContainer
         center={mapPosition}
         zoom={6}
