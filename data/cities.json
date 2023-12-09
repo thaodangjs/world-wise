@@ -35,6 +35,234 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Reggane",
+      "country": "Algeria",
+      "emoji": "DZ",
+      "date": "2023-12-09T10:20:11.193Z",
+      "notes": "",
+      "position": {
+        "lat": "25.39568733915946",
+        "lng": "-1.2298839229311476"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Goure",
+      "country": "Niger (the)",
+      "emoji": "NE",
+      "date": "2023-12-09T10:20:11.193Z",
+      "notes": "",
+      "position": {
+        "lat": "15.779806742400272",
+        "lng": "9.93117054248261"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Goure",
+      "country": "Niger (the)",
+      "emoji": "NE",
+      "date": "2023-12-09T10:20:53.259Z",
+      "notes": "",
+      "position": {
+        "lat": "15.779806742400272",
+        "lng": "9.93117054248261"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Reggane",
+      "country": "Algeria",
+      "emoji": "DZ",
+      "date": "2023-12-09T10:20:53.259Z",
+      "notes": "",
+      "position": {
+        "lat": "25.39568733915946",
+        "lng": "-1.2298839229311476"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Jebel Moon",
+      "country": "Sudan (the)",
+      "emoji": "SD",
+      "date": "2023-12-09T10:20:53.259Z",
+      "notes": "",
+      "position": {
+        "lat": "14.00095597308721",
+        "lng": "22.851388532454195"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Bir Mogrein",
+      "country": "Mauritania",
+      "emoji": "MR",
+      "date": "2023-12-09T10:20:53.259Z",
+      "notes": "",
+      "position": {
+        "lat": "25.07537535843561",
+        "lng": "-7.29528091440303"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Goundam",
+      "country": "Mali",
+      "emoji": "ML",
+      "date": "2023-12-09T10:20:53.259Z",
+      "notes": "",
+      "position": {
+        "lat": "17.298768544887213",
+        "lng": "-5.1853618031427615"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Goundam",
+      "country": "Mali",
+      "emoji": "ML",
+      "date": "2023-12-09T10:21:58.218Z",
+      "notes": "",
+      "position": {
+        "lat": "17.298768544887213",
+        "lng": "-5.1853618031427615"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Mandiana",
+      "country": "Guinea",
+      "emoji": "GN",
+      "date": "2023-12-09T10:22:01.819Z",
+      "notes": "",
+      "position": {
+        "lat": "10.117310680682587",
+        "lng": "-8.349625106107858"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Guezon",
+      "country": "Cote d'Ivoire",
+      "emoji": "CI",
+      "date": "2023-12-09T10:22:03.931Z",
+      "notes": "",
+      "position": {
+        "lat": "6.639893132721217",
+        "lng": "-7.119067521616394"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Duayaw-Nkwanta",
+      "country": "Ghana",
+      "emoji": "GH",
+      "date": "2023-12-24T10:22:06.000Z",
+      "notes": "",
+      "position": {
+        "lat": "7.22908484258392",
+        "lng": "-2.2853598290429638"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Kouroussa",
+      "country": "Guinea",
+      "emoji": "GN",
+      "date": "2023-12-09T10:24:12.199Z",
+      "notes": "",
+      "position": {
+        "lat": "9.576633871894382",
+        "lng": "-10.414876199265642"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Asahreppur",
+      "country": "Iceland",
+      "emoji": "IS",
+      "date": "2023-12-09T10:35:06.080Z",
+      "notes": "",
+      "position": {
+        "lat": "64.28168475419169",
+        "lng": "-18.852447451930672"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Hunabyggð",
+      "country": "Iceland",
+      "emoji": "IS",
+      "date": "2023-12-09T10:37:02.288Z",
+      "notes": "",
+      "position": {
+        "lat": "64.89453850251265",
+        "lng": "-19.57760618189356"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Quy Hop",
+      "country": "Viet Nam",
+      "emoji": "VN",
+      "date": "2023-12-09T10:38:08.635Z",
+      "notes": "",
+      "position": {
+        "lat": "19.268630593894148",
+        "lng": "105.24908543657216"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Jinping",
+      "country": "China",
+      "emoji": "CN",
+      "date": "2023-12-09T10:38:11.618Z",
+      "notes": "",
+      "position": {
+        "lat": "24.26507675265062",
+        "lng": "100.92056098981364"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Muli",
+      "country": "China",
+      "emoji": "CN",
+      "date": "2023-12-09T10:38:24.297Z",
+      "notes": "",
+      "position": {
+        "lat": "28.977781992089973",
+        "lng": "100.83252323268718"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Shimen",
+      "country": "China",
+      "emoji": "CN",
+      "date": "2023-12-09T10:38:26.857Z",
+      "notes": "",
+      "position": {
+        "lat": "25.935233259301228",
+        "lng": "99.29449836890005"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Tsawlaw",
+      "country": "Myanmar",
+      "emoji": "MM",
+      "date": "2023-12-09T10:38:29.394Z",
+      "notes": "",
+      "position": {
+        "lat": "26.3304193988702",
+        "lng": "98.54739474346572"
+      },
+      "id": 98443216
     }
   ]
 }
