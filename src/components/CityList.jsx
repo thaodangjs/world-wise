@@ -9,7 +9,8 @@ import { useCities } from "../contexts/CitiesContext";
 function CityList() {
   const { cities, isLoading } = useCities();
   if (isLoading) return <Spinner />;
-  if (!cities.length) return <Message message="Please add a city" />;
+  if (!cities.length)
+    return <Message message="Please add a city by clicking somewhere" />;
   return (
     <ul className={styles.cityList}>
       {cities.map((city) => (
