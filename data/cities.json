@@ -1,16 +1,28 @@
 {
   "cities": [
     {
-      "cityName": "Lochgilphead",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "GB",
-      "date": "2023-12-10T04:33:14.795Z",
+      "cityName": "Segre-en-Anjou Bleu",
+      "country": "France",
+      "emoji": "FR",
+      "date": "2023-12-10T05:03:38.217Z",
       "notes": "",
       "position": {
-        "lat": "56.21685194533037",
-        "lng": "-5.185495054879966"
+        "lat": "47.7529738136636",
+        "lng": "-0.9447844283007046"
       },
       "id": 1
+    },
+    {
+      "cityName": "Motherwell",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "GB",
+      "date": "2023-12-10T05:03:39.908Z",
+      "notes": "",
+      "position": {
+        "lat": "55.83750489039678",
+        "lng": "-4.064810005231375"
+      },
+      "id": 2
     }
   ]
 }
